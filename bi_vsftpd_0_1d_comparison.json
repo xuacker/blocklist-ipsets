@@ -1,0 +1,158 @@
+[
+	{
+		"name": "bi_any_0_1d",
+		"category": "attacks",
+		"ips": 20434,
+		"common": 9
+	},
+	{
+		"name": "bi_any_2_1d",
+		"category": "attacks",
+		"ips": 12015,
+		"common": 1
+	},
+	{
+		"name": "bi_any_2_30d",
+		"category": "attacks",
+		"ips": 52623,
+		"common": 1
+	},
+	{
+		"name": "bi_ftp_0_1d",
+		"category": "attacks",
+		"ips": 148,
+		"common": 9
+	},
+	{
+		"name": "bi_ftp_2_30d",
+		"category": "attacks",
+		"ips": 2476,
+		"common": 1
+	},
+	{
+		"name": "bi_vsftpd_2_30d",
+		"category": "attacks",
+		"ips": 1624,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 27536,
+		"common": 4
+	},
+	{
+		"name": "blocklist_de_ftp",
+		"category": "attacks",
+		"ips": 623,
+		"common": 4
+	},
+	{
+		"name": "cleantalk",
+		"category": "abuse",
+		"ips": 3164,
+		"common": 1
+	},
+	{
+		"name": "cleantalk_1d",
+		"category": "abuse",
+		"ips": 31190,
+		"common": 9
+	},
+	{
+		"name": "cleantalk_30d",
+		"category": "abuse",
+		"ips": 138774,
+		"common": 9
+	},
+	{
+		"name": "cleantalk_7d",
+		"category": "abuse",
+		"ips": 71865,
+		"common": 9
+	},
+	{
+		"name": "cleantalk_new",
+		"category": "abuse",
+		"ips": 1275,
+		"common": 1
+	},
+	{
+		"name": "cleantalk_new_1d",
+		"category": "abuse",
+		"ips": 2611,
+		"common": 2
+	},
+	{
+		"name": "cleantalk_new_30d",
+		"category": "abuse",
+		"ips": 42268,
+		"common": 8
+	},
+	{
+		"name": "cleantalk_new_7d",
+		"category": "abuse",
+		"ips": 13985,
+		"common": 5
+	},
+	{
+		"name": "cleantalk_updated",
+		"category": "abuse",
+		"ips": 2000,
+		"common": 1
+	},
+	{
+		"name": "cleantalk_updated_1d",
+		"category": "abuse",
+		"ips": 33951,
+		"common": 9
+	},
+	{
+		"name": "cleantalk_updated_30d",
+		"category": "abuse",
+		"ips": 164530,
+		"common": 9
+	},
+	{
+		"name": "cleantalk_updated_7d",
+		"category": "abuse",
+		"ips": 80741,
+		"common": 9
+	},
+	{
+		"name": "firehol_abusers_1d",
+		"category": "abuse",
+		"ips": 40091,
+		"common": 9
+	},
+	{
+		"name": "firehol_abusers_30d",
+		"category": "abuse",
+		"ips": 296563,
+		"common": 9
+	},
+	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 35091,
+		"common": 5
+	},
+	{
+		"name": "greensnow",
+		"category": "attacks",
+		"ips": 2522,
+		"common": 4
+	},
+	{
+		"name": "normshield_all_attack",
+		"category": "attacks",
+		"ips": 4706,
+		"common": 3
+	},
+	{
+		"name": "normshield_high_attack",
+		"category": "attacks",
+		"ips": 4680,
+		"common": 3
+	}
+]

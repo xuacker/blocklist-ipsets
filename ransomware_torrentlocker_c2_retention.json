@@ -1,0 +1,32 @@
+{
+	"ipset": "ransomware_torrentlocker_c2",
+	"started": 1528329602000,
+	"updated": 1531517102000,
+	"incomplete": 0,
+	"past": {
+		"hours": [ 
+			1,
+			23,
+			39,
+			67,
+			97,
+			132,
+			209 ],
+		"ips": [ 
+			3,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1 ],
+		"total": 9
+	},
+	"current": {
+		"hours": [ 
+			0 ],
+		"ips": [ 
+			1 ],
+		"total": 1
+	}
+}

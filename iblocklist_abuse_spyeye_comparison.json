@@ -1,0 +1,152 @@
+[
+	{
+		"name": "cidr_report_bogons",
+		"category": "unroutable",
+		"ips": 597829576,
+		"common": 2
+	},
+	{
+		"name": "datacenters",
+		"category": "organizations",
+		"ips": 86182797,
+		"common": 53
+	},
+	{
+		"name": "et_block",
+		"category": "attacks",
+		"ips": 19999001,
+		"common": 2
+	},
+	{
+		"name": "et_spamhaus",
+		"category": "attacks",
+		"ips": 19992576,
+		"common": 2
+	},
+	{
+		"name": "firehol_level1",
+		"category": "attacks",
+		"ips": 637235255,
+		"common": 4
+	},
+	{
+		"name": "firehol_level4",
+		"category": "attacks",
+		"ips": 9366995,
+		"common": 5
+	},
+	{
+		"name": "firehol_webserver",
+		"category": "attacks",
+		"ips": 34668624,
+		"common": 10
+	},
+	{
+		"name": "fullbogons",
+		"category": "unroutable",
+		"ips": 616231624,
+		"common": 2
+	},
+	{
+		"name": "hphosts_emd",
+		"category": "malware",
+		"ips": 43899,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_bogons",
+		"category": "unroutable",
+		"ips": 647770791,
+		"common": 7
+	},
+	{
+		"name": "iblocklist_cidr_report_bogons",
+		"category": "unroutable",
+		"ips": 597864136,
+		"common": 2
+	},
+	{
+		"name": "iblocklist_edu",
+		"category": "organizations",
+		"ips": 227978412,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_hijacked",
+		"category": "attacks",
+		"ips": 8933120,
+		"common": 4
+	},
+	{
+		"name": "iblocklist_level1",
+		"category": "reputation",
+		"ips": 754571684,
+		"common": 18
+	},
+	{
+		"name": "iblocklist_level2",
+		"category": "reputation",
+		"ips": 338114318,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_level3",
+		"category": "reputation",
+		"ips": 137276747,
+		"common": 4
+	},
+	{
+		"name": "iblocklist_rangetest",
+		"category": "reputation",
+		"ips": 4280758,
+		"common": 8
+	},
+	{
+		"name": "iblocklist_spamhaus_drop",
+		"category": "attacks",
+		"ips": 19927040,
+		"common": 2
+	},
+	{
+		"name": "iblocklist_spider",
+		"category": "reputation",
+		"ips": 846788,
+		"common": 6
+	},
+	{
+		"name": "malwaredomainlist",
+		"category": "malware",
+		"ips": 1011,
+		"common": 1
+	},
+	{
+		"name": "pushing_inertia_blocklist",
+		"category": "reputation",
+		"ips": 34512268,
+		"common": 10
+	},
+	{
+		"name": "spamhaus_drop",
+		"category": "reputation",
+		"ips": 20058112,
+		"common": 2
+	},
+	{
+		"name": "stopforumspam_toxic",
+		"category": "abuse",
+		"ips": 520803,
+		"common": 2
+	},
+	{
+		"name": "taichung",
+		"category": "attacks",
+		"ips": 11507,
+		"common": 10
+	},
+	{
+		"name": "voipbl",
+		"category": "attacks",
+		"ips": 53387,
+		"common": 1
+	}
+]

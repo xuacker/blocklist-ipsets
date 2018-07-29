@@ -1,0 +1,50 @@
+[
+	{
+		"code": "CG",
+		"value": 1
+	},
+	{
+		"code": "CN",
+		"value": 15
+	},
+	{
+		"code": "DE",
+		"value": 1
+	},
+	{
+		"code": "FR",
+		"value": 2
+	},
+	{
+		"code": "IN",
+		"value": 1
+	},
+	{
+		"code": "IT",
+		"value": 1
+	},
+	{
+		"code": "JP",
+		"value": 15
+	},
+	{
+		"code": "LV",
+		"value": 1
+	},
+	{
+		"code": "PK",
+		"value": 1
+	},
+	{
+		"code": "RU",
+		"value": 1
+	},
+	{
+		"code": "TW",
+		"value": 5
+	},
+	{
+		"code": "US",
+		"value": 6
+	}
+]
